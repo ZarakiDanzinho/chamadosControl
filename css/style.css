@@ -1,0 +1,14 @@
+div.form-group {
+ align-items: center;
+ height: 10em;
+ position: relative
+}
+
+h2{
+ font-family: "Comic Sans MS";
+ text-align: center;
+}
+
+body {
+ background-color: #f4ff;
+}
